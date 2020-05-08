@@ -1,0 +1,12 @@
+html{
+  box-sizing: border-box;
+}
+*, *::before, *::after{
+  box-sizing: inherit;
+}
+.my-jumbotron{
+  background-color: #00ff02;
+  color: blue;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
